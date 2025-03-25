@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Hikewise",
+    "category": "Navigation",
+    "description": "Hikewise connects mountain hikers with local rangers for emergency prevention and handling, ensuring safety in remote areas.",
+    "github": "https://github.com/christianaldrich/Poentjak",
+    "medium": "",
+    "role": "Full-stack Developer",
+    "technologies": ["Clean Architecture", "Firebase", "MapKit", "SwiftUI"],
+    "time": "Sep 2024 - Nov 2024",
+    "url": "https://testflight.apple.com/join/bsUF63xM",
+    "screenshot": "/assets/hikewisess.png"
+  },
+  {
+    "name": "Mendengar",
+    "category": "Lifestyle",
+    "description": "Mendengar helps bridge communication between hearing individuals and the Deaf community, making interactions easier.",
+    "github": "https://github.com/sing2408/mendengar",
+    "medium": "",
+    "role": ["Full-stack Developer", "ML Engineer", "Tech Lead"],
+    "technologies": ["Clean Architecture", "ML", "SwiftUI", "UIKit"],
+    "time": "Aug 2024 - Sep 2024",
+    "url": "",
+    "screenshot": "/assets/mendengarss.png"
+  },
+  {
+    "name": "GlucoSee",
+    "category": "Healthcare",
+    "description": "GlucoSee helps seniors track and manage their diabetes by logging blood sugar levels, providing historical data for monitoring.",
+    "github": "https://github.com/sing2408/GlucoseTracker",
+    "medium": "",
+    "role": ["Front End", "Tech Lead"],
+    "technologies": ["Dark Mode", "Localization", "SwiftUI", "iOS"],
+    "time": "Jul 2024",
+    "url": "https://apps.apple.com/id/app/glucosee/id6550895176",
+    "screenshot": "/assets/glucoseess.png",
+    "appStore": "https://apps.apple.com/id/app/glucosee/id6550895176"
+  },
+  {
+    "name": "HoneyDue",
+    "category": "Lifestyle",
+    "description": "HoneyDue simplifies expense tracking with gamification and AI for bill scanning, making finance fun and easy.",
+    "github": "https://github.com/dikidwid/HoneyDue",
+    "medium": "https://medium.com/@singgihtulus/the-power-of-gamification-how-honeydue-makes-expense-tracking-fun-dd0ce1516fa5",
+    "role": ["Full-stack Developer", "iOS Developer"],
+    "technologies": ["MVVM", "Machine learning", "On Device Data Storage", "SwiftUI"],
+    "time": "Jun 2024 – Jul 2024",
+    "url": "https://testflight.apple.com/join/gGzLhWhG",
+    "screenshot": "/assets/honeyduess.png"
+  },
+  {
+    "name": "MamApa",
+    "category": "Lifestyle",
+    "description": "MamApa helps mothers plan nutritious and family-friendly meals, providing a variety of recipe ideas that everyone will enjoy.",
+    "github": "https://github.com/dikidwid/MamApa",
+    "medium": "",
+    "role": ["Front End", "iOS Developer"],
+    "technologies": ["SwiftUI", "iOS", "Collaboration", "HIG"],
+    "time": "Mar 2024 - Apr 2024",
+    "url": "",
+    "screenshot": "/assets/mamapass.png"
+  },
+  {
+    "name": "Snoreify",
+    "category": "Healthcare",
+    "description": "Snoreify uses machine learning to help users with sleep apnea by monitoring snoring events and prompting position changes.",
+    "github": "https://github.com/sing2408/snoreify",
+    "medium": "",
+    "role": ["Front End", "iOS Developer"],
+    "technologies": ["AVFoundation", "CoreML", "SwiftUI", "iOS"],
+    "time": "Apr 2024 - May 2024",
+    "url": "",
+    "screenshot": "/assets/snoreifyss.png"
+  },
+  {
+    "name": "MovieFlix",
+    "category": "Lifestyle",
+    "description": "MovieFlix allows users to discover trending movies based on search data and save their favorites, built using React Native.",
+    "github": "https://github.com/sing2408/movieflix-react-native",
+    "role": "Game Developer",
+    "technologies": ["API", "React Native", "JavaScript", "Expo"],
+    "time": "May 2024",
+    "url": "",
+    "screenshot": "/assets/movieflixss.png"
+  }
+]

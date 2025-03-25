@@ -1,0 +1,17 @@
+.loading-screen {
+    position: fixed;
+    inset: 0;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-family: monospace;
+    transition: opacity 1s ease-in-out, filter 1s ease-in-out;
+}
+ 
+.blur-out {
+    filter: blur(20px);
+    opacity: 0;
+    pointer-events: none;
+}
