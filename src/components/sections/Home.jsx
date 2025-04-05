@@ -18,8 +18,7 @@ export const Home = () => {
             </h1>
 
             <p className="text-white text-lg mb-8">
-              Passionate about building seamless iOS experiences with SwiftUI and Apple’s Frameworks. Exploring React Native for cross-platform development while diving into Machine Learning to elevate app capabilities. Always learning, always pushing the boundaries of mobile technology. 🚀
-            </p>
+            Passionate about crafting seamless iOS experiences using SwiftUI and Apple's robust frameworks. Deeply immersed in the world of Machine Learning, exploring its potential to elevate app capabilities and create intelligent, user-centric solutions. Continuously learning and pushing the boundaries of mobile technology through the power of intelligent features. 🚀 </p>
 
             <div className="flex flex-col md:flex-row items-center justify-center md:justify-start space-y-4 md:space-y-0 md:space-x-4">
               <a
@@ -29,7 +28,7 @@ export const Home = () => {
                 View Projects
               </a>
               <a
-                href="#contact"
+                href="#connect"
                 className="border border-blue-500 text-blue-500 py-3 px-6 rounded font-medium transition-all hover:bg-blue-500 hover:text-white hover:shadow-md"
               >
                 Contact Me

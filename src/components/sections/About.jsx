@@ -73,7 +73,7 @@ export const About = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
             <div className="p-6 rounded-xl border border-white/10 backdrop-blur-md shadow-md">
               <h3 className="text-xl font-bold mb-4 text-blue-400">🎓 Education</h3>
-              <p className="text-gray-300 font-semibold">Computer Science Graduate – Binus University (GPA: 3.9/4.0)</p>
+              <p className="text-gray-300 font-semibold">Computer Science Graduate – Binus University (GPA: 3.91/4.00)</p>
               <p className="text-gray-400 text-sm">Specialized in Artificial Intelligence</p>
             </div>
 
